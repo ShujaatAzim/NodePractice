@@ -1,0 +1,22 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "\"Practicing making a node project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ShujaatAzim/NodePractice.git"
+  },
+  "author": "Shujaat Azim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShujaatAzim/NodePractice/issues"
+  },
+  "homepage": "https://github.com/ShujaatAzim/NodePractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
